@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    padding: 60%;
+    margin-left: 90%;
+    margin-top: 5%;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+
+li {
+    list-style: none;
+    display: inline;
+    color: #fff;
+    font-size: 2em;
+    padding: 0 5px;
+}
+
+lu {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+
+.logo {
+    margin-bottom: 15%;
+}
+
+ header {
+    width: 100%;
+    display: flex;
+    background-image: url(./images/imagens\ atualizadas/spidermanheader.jpg);
+    background-color: #fff;
+    border-bottom: 2px solid;
+    padding-top:10%;
+    background-position: 50%;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    padding: 5px;
+    align-items: center;
+
+ }
+
+ .thor {
+    width: 100%;
+ }
+
+ .bonecos {
+    width: 50%;
+    height: 50%;
+    display: flex;
+ }
