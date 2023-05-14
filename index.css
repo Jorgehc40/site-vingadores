@@ -6,10 +6,8 @@
 .navbar {
     padding: 60%;
     margin-left: 90%;
-    margin-top: 5%;
-    text-align: center;
+    margin-top: 85%;
     display: flex;
-    align-items: center;
 }
 
 li {
@@ -30,22 +28,25 @@ lu {
 
 .logo {
     margin-bottom: 15%;
+    width: 200px;
+    margin-top: 20px;
+    margin-left: 20px;
 }
 
  header {
     width: 100%;
     display: flex;
     background-image: url(./images/imagens\ atualizadas/spidermanheader.jpg);
-    background-color: #fff;
-    border-bottom: 2px solid;
-    padding-top:10%;
-    background-position: 50%;
     background-size: 100%;
     background-repeat: no-repeat;
-    padding: 5px;
-    align-items: center;
-
+    
  }
+
+ .funko {
+    width: 400px;
+    padding: 250px;
+    margin: 0 0 0 -50%;
+}
 
  .thor {
     width: 100%;
@@ -55,4 +56,11 @@ lu {
     width: 50%;
     height: 50%;
     display: flex;
+ }
+
+ h1 {
+    text-align: center;
+    padding: 10px;
+    text-decoration: underline;
+    
  }
