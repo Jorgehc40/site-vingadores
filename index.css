@@ -3,43 +3,21 @@
     padding: 0;
 }
 
+.header {
+    background-image: url(./images/Editaveis/spidermanheader.jpg);
+    width: 100%;
+    height: 100%;
+
+}
+
 .navbar {
-    float: right;
-    padding: 35px;
-}
-
-li:hover {
-    text-decoration: underline;
-    text-decoration-color: orange;
-    cursor: pointer;
-}
-
-li {
-    list-style: none;
-    display: inline;
-    color: #fff;
-    font-size: 2em;
-    padding: 0 5px;
 }
 
 .logo {
-    margin-top: 30px;
-    margin-bottom: 50px;
-    padding-left: 40px;
-
+   margin: 10PX;
 }
 
- header {
-    background-image: url(./images/imagens\ atualizadas/spidermanheader.jpg);
-    background-size: 100%;    
- }
-
  .funko {
-    width: 400px;
-    padding: 250px;
-    position: absolute;
-    top: 60px;
-    left: 5px;
     
 }
 
