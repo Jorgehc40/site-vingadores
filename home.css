@@ -1,0 +1,22 @@
+﻿#conteiner {
+    height: fit-content;
+    min-height: 100vh;
+}
+
+#section1 {
+    height: 100vh;
+    background-image: url(./images/spidermanheader.jpg);
+    background-position: top;
+    background-size: cover;
+}
+
+#section2 {
+    height: 100vh;
+    background-image: url(./images/thor_header.jpg);
+    background-position: ;
+}
+
+.navbar {
+    color: white;
+}
+
