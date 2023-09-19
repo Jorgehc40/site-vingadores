@@ -4,3 +4,25 @@
     margin: O;
     padding: O;
 }
+
+.logo {
+    margin: 20px;
+    width: 250px;
+    
+}
+
+nav {
+    overflow: hidden;
+    height: 30px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+nav a {
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+

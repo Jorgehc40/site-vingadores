@@ -1,22 +1,14 @@
-﻿#conteiner {
-    height: fit-content;
-    min-height: 100vh;
+﻿* {
+    margin: 0;
+    padding: 0;
 }
 
-#section1 {
-    height: 100vh;
+header {
     background-image: url(./images/spidermanheader.jpg);
-    background-position: top;
-    background-size: cover;
+    width: 100%;
 }
 
-#section2 {
-    height: 100vh;
-    background-image: url(./images/thor_header.jpg);
-    background-position: ;
+.funko {
+    width: 400px;
+    padding: 100px 400px;
 }
-
-.navbar {
-    color: white;
-}
-
