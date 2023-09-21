@@ -5,19 +5,14 @@
 
 #container {
     height: fit-content;
-    min-height: 100vh;
+    min-height: 50vh;
 }
 
 #section1 {
     height: 100vh;
-    background-image: url("./images/spidermanheader.jpg");
+    background-image: url("./images/spidermanheaderefunko.png");
     background-position: top;
     background-size: cover;
-}
-
-.funko {
-    display: flex;
-    width: 40%;
 }
 
 .menuContainer {
