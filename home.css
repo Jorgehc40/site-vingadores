@@ -9,7 +9,7 @@
 }
 
 #section1 {
-    height: 100vh;
+    height: 130vh;
     background-image: url("./images/spidermanheaderefunko.png");
     background-position: top;
     background-size: cover;
@@ -18,7 +18,6 @@
 .menuContainer {
     display: flex;
     width: 30%;
-    color: white;
     justify-content: space-around;
     margin-top: 05%;
 }
@@ -33,4 +32,103 @@
 .logo {
     height: 70%;
     width: 15%;
+}
+
+.linkStyle {
+    color: white;
+    text-decoration: none;
+}
+
+.section2 {
+    display: flex;
+    justify-content: space-between;
+    background-image: url("./images/thor_header.jpg");
+    background-position: top;
+    background-size: cover;
+    height: 130vh;
+    flex-direction: column;
+}
+
+.section3 {
+    display: flex;
+    justify-content: space-between;
+    background-image: url("./images/bonecos.png");
+    background-position: top;
+    background-size: cover;
+    height: 130vh;
+    flex-direction: column;
+
+}
+
+.quemsomos {
+    height: 30%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    padding-right: 5%;
+    margin: 0;
+
+}
+
+#quemsomos {
+    font-size: 2em;
+    text-align: center;
+    font-weight: 800;
+}
+
+.hrquemsomos {
+    background-color: white;
+    border: 0;
+    height: 3%;
+    width: 20%;
+    margin-top: 0.5%;
+}
+
+.text1 {
+    display: flex;
+    height: 70%;
+    padding: 0 3% 0% 55%;
+    justify-content: center;
+    align-items: start;
+    line-height: 1.5;
+}
+
+.text1right {
+    display: flex;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+#text1 {
+    color: white;
+    font-size: 0.85em;
+    text-align: justify;
+}
+.catalogo {
+    height: 30%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    padding-right: 5%;
+    margin: 0;
+}
+
+#catalogo {
+    font-size: 2em;
+    text-align: center;
+    font-weight: 800;
+    color: #5c5c5c;
+}
+
+.hrcatalogo {
+    background-color: #f6a69c;
+    border: 0;
+    height: 3%;
+    width: 12%;
+    margin-top: 0.4%;
 }
